@@ -8,7 +8,19 @@
 - Run RSpec tests in Ruby
 
 ## Introduction
+# puts 'Hello world!'
+# puts 'Hello world!'
+# puts 'Hello world!'
 
+# print 'Hello world!'
+# print 'Hello world!'
+# print 'Hello world!'
+
+# puts [1, 2, 3]
+
+# p [1, 2, 3]
+
+# pp [{ id: 1, hello: 'world'}, {id: 2, hello: 'Ruby'}, {id: 3, hello: 'moon'}, { id: 4, hello: 'learner'}]
 In this lesson, you'll get some practice running Ruby code, and see a few
 different ways to check what your code is doing. Make sure to code along to get
 comfortable in this new environment!
